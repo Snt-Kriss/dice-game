@@ -1,0 +1,41 @@
+.start{
+    text-align: center;
+    font-family: cursive;
+    padding-top: 30px;
+}
+
+.container{
+    text-align: center;
+}
+.player1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: sans-serif;
+}
+
+.winner{
+    text-align: center;
+}
+
+.images{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+img{
+    width: 140px;
+}
+
+h4{
+    font-family: cursive;
+    color: darkmagenta;
+}
+
+button{
+    background-color: maroon;
+    border-color: maroon;
+    color: whitesmoke;
+    border-radius: 4px;
+    margin-top: 30px;
+}
